@@ -6,7 +6,10 @@ I principali datatype in javascript sono:
 - numeri interi negativi e positivi, numeri decimali;
 -stringhe, ossia insieme di caratteri alfanumerici che vengono inseriti all'interno di apici oppure virgolette;
 - booleani, che, a seguito di interrogazioni attraverso operatori di uguaglianza e differenza, danno come ridultato True e False;
-*/ 
+- undefined, variabile che non ha un valore associato;
+- null, il valore della varibiale è vuoto;
+*/
+
 
 //ESERCIZIO 2
 
