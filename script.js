@@ -18,7 +18,7 @@ let secondoNumero= 20;
 
 let risultato= 'Il risultato della somma tra 12 e 20 è '+ (primoNumero + secondoNumero);
 
-console.log(risultato);
+console.log(risultato)
 
 //ESERCIZIO 3
 
@@ -30,7 +30,7 @@ let name= 'Stefania';
 
 //ESERCIZIO 5
 
-console.log(x-4);
+console.log(x-4)
 
 //ESERCIZIO 6
 
@@ -45,6 +45,6 @@ let persona={
 let name1='john';
 let name2='John';
 
-console.log(name1!==name2);
+console.log(name1!==name2)
 
-console.log(name2.toLowerCase()==name1);
+console.log(name2.toLowerCase()==name1)
